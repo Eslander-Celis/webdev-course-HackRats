@@ -37,7 +37,7 @@ Al finalizar el curso, los estudiantes seran capaces de:
 | 2 | Introduccion a HTML: etiquetas, encabezados y parrafos | 10 min | [Ver video](https://youtu.be/4yWCF0tRrDE) | [Abrir practica](https://codepen.io/Aaron-Avila-the-decoder/pen/RNKpRjO) |
 | 3 | Listas, imagenes y enlaces en HTML | 8 min | [Ver video](https://youtu.be/tGYp4UMkm9k) | [Abrir practica](https://codepen.io/Mathias-Arechaga/pen/BypWzbK) |
 | 4 | Introduccion a CSS: colores, fuentes y selectores | 12 min | [Ver video](https://youtu.be/NmuqiwPjYeQ) | [Abrir practica](https://codepen.io/Gabriel-Mendoza-the-builder/pen/ogBZzLK) |
-| 5 | Creacion de una pagina web personal | 15 min | [Ver video](https://www.youtube.com/) | [Abrir practica](https://codepen.io/pen/) |
+| 5 | Creacion de una pagina web personal | 15 min | [Ver video](https://www.youtube.com/watch?v=E1Wl-j1_QUE&t=1150s) | [Abrir practica](https://codepen.io/Eslander-Celis/pen/pvRebEb) |
 | 6 | Errores comunes, recomendaciones y proximos pasos | 10 min | [Ver video](https://www.youtube.com/) | [Abrir practica](https://codepen.io/pen/) |
 
 ## Leccion 1: Introduccion al desarrollo web
@@ -152,6 +152,9 @@ El proyecto permite aplicar los conocimientos adquiridos durante el curso en una
 
 **Proyecto:** crear una pagina web personal que incluya una presentacion, intereses, pasatiempos, una imagen, un enlace y estilos personalizados.
 
+**Video:** [Ver Leccion 5](https://www.youtube.com/watch?v=E1Wl-j1_QUE&t=1150s)  
+**Practica:** [Crear pagina web personal en CodePen](https://codepen.io/Eslander-Celis/pen/pvRebEb)
+
 ## Leccion 6: Recomendaciones, errores comunes y proximos pasos
 
 La sexta leccion revisa los errores mas frecuentes que pueden aparecer al escribir HTML y CSS. Se explica como comprobar etiquetas, atributos, selectores y propiedades cuando una pagina no muestra el resultado esperado.
@@ -179,7 +182,7 @@ Tambien se presentan recomendaciones para organizar el codigo y continuar aprend
 | 2 | Primera pagina personal en HTML | [CodePen](https://codepen.io/Aaron-Avila-the-decoder/pen/RNKpRjO) |
 | 3 | Listas, imagenes y enlaces | [CodePen](https://codepen.io/Mathias-Arechaga/pen/BypWzbK) |
 | 4 | Estilos basicos con CSS | [CodePen](https://codepen.io/Gabriel-Mendoza-the-builder/pen/ogBZzLK) |
-| 5 | Pagina web personal | [CodePen](https://codepen.io/pen/) |
+| 5 | Pagina web personal | [CodePen](https://codepen.io/Eslander-Celis/pen/pvRebEb) |
 | 6 | Correccion de errores | [CodePen](https://codepen.io/pen/) |
 
 ## Repositorio de codigo fuente
