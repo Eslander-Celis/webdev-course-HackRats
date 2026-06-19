@@ -265,14 +265,14 @@ webdev-course-NOMBRE-EQUIPO/
 
 ### Integrantes
 
-| Integrante | Aporte principal |
-| --- | --- |
-| COLOCAR_INTEGRANTE_1 | Lección 1: Introducción al desarrollo web |
-| Aarón Avila Palacios| Lección 2: Introducción a HTML |
-| COLOCAR_INTEGRANTE_3 | Lección 3: Listas, imágenes y enlaces |
-| COLOCAR_INTEGRANTE_4 | Lección 4: Introducción a CSS |
-| COLOCAR_INTEGRANTE_5 | Lección 5: Página web personal |
-| COLOCAR_INTEGRANTE_6 | Lección 6: Recomendaciones y errores comunes |
+| Integrante                | Aporte principal |
+|---------------------------| --- |
+| COLOCAR_INTEGRANTE_1      | Lección 1: Introducción al desarrollo web |
+| Aarón Avila Palacios      | Lección 2: Introducción a HTML |
+| Mathias Aréchaga Saavedra | Lección 3: Listas, imágenes y enlaces |
+| COLOCAR_INTEGRANTE_4      | Lección 4: Introducción a CSS |
+| COLOCAR_INTEGRANTE_5      | Lección 5: Página web personal |
+| COLOCAR_INTEGRANTE_6      | Lección 6: Recomendaciones y errores comunes |
 
 ### Resumen de elaboración
 
