@@ -518,3 +518,11 @@ Tu reto ahora es personalizar esta página con:
 Experimenta, cambia cosas y diviértete programando.
 
 Nos vemos en la siguiente lección.
+
+## Enlaces
+
+- **Video de YouTube:** https://youtu.be/E1Wl-j1_QUE
+
+- **Práctica en CodePen:** https://codepen.io/Eslander-Celis/pen/pvRebEb
+
+- **Repositorio de GitHub:** https://github.com/Eslander-Celis/webdev-course-HackRats
