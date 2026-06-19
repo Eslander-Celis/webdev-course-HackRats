@@ -38,7 +38,7 @@ Al finalizar el curso, los estudiantes seran capaces de:
 | 3 | Listas, imagenes y enlaces en HTML | 8 min | [Ver video](https://youtu.be/tGYp4UMkm9k) | [Abrir practica](https://codepen.io/Mathias-Arechaga/pen/BypWzbK) |
 | 4 | Introduccion a CSS: colores, fuentes y selectores | 12 min | [Ver video](https://youtu.be/NmuqiwPjYeQ) | [Abrir practica](https://codepen.io/Gabriel-Mendoza-the-builder/pen/ogBZzLK) |
 | 5 | Creacion de una pagina web personal | 15 min | [Ver video](https://www.youtube.com/watch?v=E1Wl-j1_QUE&t=1150s) | [Abrir practica](https://codepen.io/Eslander-Celis/pen/pvRebEb) |
-| 6 | Errores comunes, recomendaciones y proximos pasos | 10 min | [Ver video](https://www.youtube.com/) | [Abrir practica](https://codepen.io/pen/) |
+| 6 | Errores comunes, recomendaciones y proximos pasos | 10 min | [Ver video](https://youtu.be/SjGTzyF4rAY) | [Abrir practica](https://codepen.io/Aaron-Avila-the-decoder/pen/WbRpGOX) |
 
 ## Leccion 1: Introduccion al desarrollo web
 
@@ -174,6 +174,9 @@ Tambien se presentan recomendaciones para organizar el codigo y continuar aprend
 
 **Actividad:** identificar y corregir errores en un ejemplo de HTML y CSS antes de ejecutar la pagina.
 
+**Video:** [Ver Leccion 5](https://youtu.be/SjGTzyF4rAY)  
+**Practica:** [Crear pagina web personal en CodePen](https://codepen.io/Aaron-Avila-the-decoder/pen/WbRpGOX)
+
 ## Recursos de practica
 
 | Leccion | Actividad | Herramienta |
@@ -183,7 +186,7 @@ Tambien se presentan recomendaciones para organizar el codigo y continuar aprend
 | 3 | Listas, imagenes y enlaces | [CodePen](https://codepen.io/Mathias-Arechaga/pen/BypWzbK) |
 | 4 | Estilos basicos con CSS | [CodePen](https://codepen.io/Gabriel-Mendoza-the-builder/pen/ogBZzLK) |
 | 5 | Pagina web personal | [CodePen](https://codepen.io/Eslander-Celis/pen/pvRebEb) |
-| 6 | Correccion de errores | [CodePen](https://codepen.io/pen/) |
+| 6 | Correccion de errores | [CodePen](https://codepen.io/Aaron-Avila-the-decoder/pen/WbRpGOX) |
 
 ## Repositorio de codigo fuente
 
@@ -220,7 +223,7 @@ El repositorio incluye:
 | Mathias Arechaga Saavedra | Leccion 3: Listas, imagenes y enlaces |
 | Gabriel Marcelo Mendoza Palacios | Leccion 4: Introduccion a CSS |
 | Eslander Celis Berrospi | Leccion 5: Pagina web personal |
-| Integrante por confirmar | Leccion 6: Recomendaciones y errores comunes |
+| Aaron Avila Palacios | Leccion 6: Recomendaciones y errores comunes |
 
 ### Resumen de elaboracion
 
