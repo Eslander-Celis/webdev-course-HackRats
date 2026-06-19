@@ -291,6 +291,6 @@ Gracias por participar.
 
 - **Video de YouTube:** https://youtu.be/xm1Nn4VHWj4
 
-- **Práctica en CodePen:** https://codepen.io/pen/
+- **Práctica en CodePen:** https://codepen.io/Darkdren/pen/QwdpKga
 
 - **Repositorio de GitHub:** https://github.com/Eslander-Celis/webdev-course-HackRats

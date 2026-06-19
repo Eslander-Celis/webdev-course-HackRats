@@ -33,7 +33,7 @@ Al finalizar el curso, los estudiantes seran capaces de:
 
 | Leccion | Tema | Duracion estimada | Video | Practica en linea |
 | --- | --- | ---: | --- | --- |
-| 1 | Introduccion al desarrollo web | 5 min | [Ver video](https://youtu.be/xm1Nn4VHWj4) | [Abrir practica](https://codepen.io/pen/) |
+| 1 | Introduccion al desarrollo web | 5 min | [Ver video](https://youtu.be/xm1Nn4VHWj4) | [Abrir practica](https://codepen.io/Darkdren/pen/QwdpKga) |
 | 2 | Introduccion a HTML: etiquetas, encabezados y parrafos | 10 min | [Ver video](https://youtu.be/4yWCF0tRrDE) | [Abrir practica](https://codepen.io/Aaron-Avila-the-decoder/pen/RNKpRjO) |
 | 3 | Listas, imagenes y enlaces en HTML | 8 min | [Ver video](https://youtu.be/tGYp4UMkm9k) | [Abrir practica](https://codepen.io/Mathias-Arechaga/pen/BypWzbK) |
 | 4 | Introduccion a CSS: colores, fuentes y selectores | 12 min | [Ver video](https://youtu.be/NmuqiwPjYeQ) | [Abrir practica](https://codepen.io/Gabriel-Mendoza-the-builder/pen/ogBZzLK) |
@@ -59,7 +59,7 @@ Tambien se presenta HTML como la tecnologia que organiza la estructura y el cont
 **Actividad:** observar una pagina web e identificar que elementos corresponden al contenido y cuales pertenecen al estilo visual.
 
 **Video:** [Ver Leccion 1](https://youtu.be/xm1Nn4VHWj4)  
-**Practica:** [Crear una primera pagina en CodePen](https://codepen.io/pen/)
+**Practica:** [Crear una primera pagina en CodePen](https://codepen.io/Darkdren/pen/QwdpKga)
 
 ## Leccion 2: Introduccion a HTML
 
@@ -178,7 +178,7 @@ Tambien se presentan recomendaciones para organizar el codigo y continuar aprend
 
 | Leccion | Actividad | Herramienta |
 | --- | --- | --- |
-| 1 | Exploracion de una pagina web | [CodePen](https://codepen.io/pen/) |
+| 1 | Exploracion de una pagina web | [CodePen](https://codepen.io/Darkdren/pen/QwdpKga) |
 | 2 | Primera pagina personal en HTML | [CodePen](https://codepen.io/Aaron-Avila-the-decoder/pen/RNKpRjO) |
 | 3 | Listas, imagenes y enlaces | [CodePen](https://codepen.io/Mathias-Arechaga/pen/BypWzbK) |
 | 4 | Estilos basicos con CSS | [CodePen](https://codepen.io/Gabriel-Mendoza-the-builder/pen/ogBZzLK) |
