@@ -1,0 +1,69 @@
+<h1>Listas en HTML: &lt;ul&gt;, &lt;ol&gt; y &lt;li&gt;</h1>
+
+<!-- Breve explicación -->
+<p>En HTML usamos listas para agrupar elementos relacionados. Existen principalmente dos tipos:
+<strong>listas no ordenadas</strong> (<code>&lt;ul&gt;</code>) y <strong>listas ordenadas</strong>
+(<code>&lt;ol&gt;</code>). Cada elemento de la lista se escribe con <code>&lt;li&gt;</code>.</p>
+
+<!-- Ejemplo 1: lista no ordenada simple -->
+<h2>Ejemplo: lista no ordenada (&lt;ul&gt;)</h2>
+<p>Útil cuando el orden no importa (por ejemplo, una lista de frutas):</p>
+<ul aria-label="Lista de frutas">
+    <li>Manzana</li>
+    <li>Pera</li>
+    <li>Uva</li>
+</ul>
+
+<!-- Ejemplo 2: lista ordenada simple -->
+<h2>Ejemplo: lista ordenada (&lt;ol&gt;)</h2>
+<p>Usa <code>&lt;ol&gt;</code> cuando el orden sí importa (pasos, instrucciones, ranking):</p>
+<ol>
+    <li>Primero</li>
+    <li>Segundo</li>
+    <li>Tercero</li>
+</ol>
+
+<!-- Ejemplo 3: lista con clases y contenido técnico -->
+<h2>Ejemplo: lista de tecnologías</h2>
+<p>Podemos añadir clases para aplicar estilos con CSS:</p>
+<ul class="tech-list">
+    <li>HTML</li>
+    <li>CSS</li>
+    <li>JavaScript</li>
+</ul>
+
+<!-- Ejemplo 4: lista ordenada como pasos de una tarea con atributos -->
+<h2>Ejemplo: pasos (ordenados)</h2>
+<p>Las listas ordenadas pueden usar atributos como <code>start</code> o <code>reversed</code>:</p>
+<ol start="4">
+    <li>Abrir editor</li>
+    <li>Escribir código</li>
+    <li>Guardar archivo</li>
+</ol>
+
+<!-- Ejemplo 5: listas anidadas -->
+<h2>Ejemplo: lista anidada</h2>
+<p>Las listas pueden contener otras listas dentro de un <code>&lt;li&gt;</code> para mostrar subelementos:</p>
+<ul>
+    <li>Frutas
+        <ul>
+            <li>Manzana</li>
+            <li>Pera</li>
+        </ul>
+    </li>
+    <li>Verduras
+        <ul>
+            <li>Zanahoria</li>
+            <li>Lechuga</li>
+        </ul>
+    </li>
+</ul>
+
+<!-- Notas instructivas finales -->
+<h2>Buenas prácticas</h2>
+<ul>
+    <li>Usa <code>&lt;ul&gt;</code> para listas sin orden y <code>&lt;ol&gt;</code> para listas ordenadas.</li>
+    <li>Siempre coloca cada elemento dentro de <code>&lt;li&gt;</code>.</li>
+    <li>Para accesibilidad, añade <code>aria-label</code> o un encabezado que describa la lista.</li>
+</ul>
+
