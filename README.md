@@ -35,7 +35,7 @@ Al finalizar el curso, los estudiantes serán capaces de:
 | --- | --- | ---: | --- | --- |
 | 1 | Introducción al desarrollo web | 5 min | [Ver video](ENLACE_VIDEO_1) | [Abrir práctica](ENLACE_PRACTICA_1) |
 | 2 | Introducción a HTML: etiquetas, encabezados y párrafos | 10 min | [Ver video](https://youtu.be/4yWCF0tRrDE) | [Abrir práctica](https://codepen.io/Aaron-Avila-the-decoder/pen/RNKpRjO) |
-| 3 | Listas, imágenes y enlaces en HTML | 8 min | [Ver video](ENLACE_VIDEO_3) | [Abrir práctica](ENLACE_PRACTICA_3) |
+| 3 | Listas, imágenes y enlaces en HTML | 8 min | [Ver video](https://youtu.be/tGYp4UMkm9k) | [Abrir práctica](https://codepen.io/Mathias-Arechaga/pen/BypWzbK) |
 | 4 | Introducción a CSS: colores, fuentes y selectores | 12 min | [Ver video](ENLACE_VIDEO_4) | [Abrir práctica](ENLACE_PRACTICA_4) |
 | 5 | Creación de una página web personal | 15 min | [Ver video](ENLACE_VIDEO_5) | [Abrir práctica](ENLACE_PRACTICA_5) |
 | 6 | Errores comunes, recomendaciones y próximos pasos | 10 min | [Ver video](ENLACE_VIDEO_6) | [Abrir práctica](ENLACE_PRACTICA_6) |
