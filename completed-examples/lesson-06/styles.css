@@ -1,0 +1,30 @@
+body {
+  margin: 0;
+  padding: 24px;
+  background-color: lightblue;
+  font-family: Arial, sans-serif;
+}
+
+.perfil {
+  max-width: 520px;
+  margin: 0 auto;
+  padding: 24px;
+  background-color: white;
+  border: 2px solid navy;
+  border-radius: 12px;
+  text-align: center;
+}
+
+h1 {
+  color: blue;
+}
+
+img {
+  max-width: 100%;
+  height: auto;
+  border-radius: 50%;
+}
+
+a {
+  color: darkblue;
+}
